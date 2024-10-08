@@ -5,8 +5,5 @@ env/
 venv/
 Pipfile
 requirements2.txt
-docker
-Dockerfile
 .coverage
-docker-compose.yml
 .vscode
